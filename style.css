@@ -1,10 +1,31 @@
 
-body {
-  width: 50%;
-  margin:auto;
+
+#container {
+  background-color: blue;
+}
+header {
+
+  padding-top: 50px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  color: white;
+  width: 25%;
+  margin: auto;
+
+
 }
 
-#container{
-  text-align: center;
+.cadre {
+  border: 2px solid black ;
+  border-radius: 20px;
+  margin-top: 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+}
 
+
+
+.searchResults {
+  width: 60%;
+  margin:auto;
 }
